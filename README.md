@@ -1,18 +1,37 @@
-# technical_test
 
-A new Flutter project.
+# Happy Mart
 
-## Getting Started
+A brief description of what this project does and who it's for
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* List Product 
+* Detail Product
+* Search Product
+* Sync Scrolling
+* Online & Offline Mode 
+* Git
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Technical-Test-Jubelio
-# Technical-Test-Jubelio
+
+## Requirements
+
+* Flutter Version : > 2.8.1 
+* Flutter SDK : > 2.15.1
+* OS : Windows / MacOs
+* Code Editor : VSCode
+* Tested Emulator : Iphone 11 Pro Max (IOS Simulator)
+* References UI : [https://www.behance.net/gallery/135792591/eCommerce-app?tracking_source=search_projects%7Cecommerce%20app]
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/SHC12/Technical-Test-Jubelio.git
+
+# Go into the repository
+$ flutter run
+
+```
